@@ -1,6 +1,6 @@
 # DSP
 
-This github contain the code from the paper: "Optimal Bidding, Allocation, and Budget Spending for a Demand Side Platform Under Many Auction Types", Paul Grigas, Kuang-chih Lee, Alfonso Lobos, Zheng Wen. 
+This github contain the code from the paper: "Optimal Bidding, Allocation, and Budget Spending for a Demand Side Platform Under Generic Auction Types", Paul Grigas, Alfonso Lobos, Zheng Wen, Kuang-chih Lee . 
 
 This github contains two main folders having the code for the arificial experiments and those based on the Criteo Attribution dataset https://ailab.criteo.com/criteo-attribution-modeling-bidding-dataset/.
 
